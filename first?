@@ -1,4 +1,5 @@
-a = 15
-b = 16
+maximim = 101
+minimum = 1
 
-print(a + b)
+for i in range(minimum, maximim):
+    print("I've printed hello world!", i)
